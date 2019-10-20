@@ -6,7 +6,7 @@
 	[suite] NVARCHAR(50),
 	[city] NVARCHAR(50),
 	[state] NVARCHAR(50),
-	[zip] INT,
+	[zip] NVARCHAR(50),
 	[businessType] NVARCHAR(50),
 	[ownerName] NVARCHAR(50)
 );
